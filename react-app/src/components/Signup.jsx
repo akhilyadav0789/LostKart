@@ -3,11 +3,11 @@ import Header from './Header';
 
 
 
-function Login() {
+function Signup() {
   return (
     <div>
       <Header />
-      Welcome to the Login page!
+      Welcome to the signup page!
       <br></br>
          USERNAME
          <input type="text" />
@@ -15,11 +15,11 @@ function Login() {
          PASSWORD
          <input type="password" />
             <br></br>
-            <button>LOGIN</button>
-          <Link to="/signup"> SIGNUP </Link>
+            <button>SIGNUP</button>
+          <Link to="/login"> LOGIN </Link>
 
     </div>
   );
 }
 
-export default Login;
+export default Signup;

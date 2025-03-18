@@ -7,10 +7,10 @@ function Header() {
     <div>
         
         <div className="header">
+        <Link to="/"> HOME </Link>
            <span className='mt-3'> LOST PRODUCT IN YOUR CITY ...in your city </span>
         
         <Link to="/login">Login</Link>
-        
         
         
         </div>
