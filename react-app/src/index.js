@@ -14,7 +14,7 @@ import Signup from "./components/Signup";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: (<Home /> )
+    element: (<Home /> ),
   },
 
   {
