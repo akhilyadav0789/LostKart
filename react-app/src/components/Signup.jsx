@@ -15,7 +15,7 @@ function Signup() {
          PASSWORD
          <input type="password" />
             <br></br>
-            <button>SIGNUP</button>
+            <button> SIGNUP </button>
           <Link to="/login"> LOGIN </Link>
 
     </div>
